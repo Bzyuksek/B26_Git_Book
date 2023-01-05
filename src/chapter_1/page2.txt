@@ -4,3 +4,6 @@ this is page 2
 we are getting ready to coomit
 
 nothing new
+creating page 2
+this is page 2
+we are getting ready to commit
